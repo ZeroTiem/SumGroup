@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Day1_homeWork", "TDD_Day1_homeWork\TDD_Day1_homeWork.csproj", "{2F1AC41C-1847-485B-AFF2-931D4D199C39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Day1_homeWorkTests", "TDD_Day1_homeWorkTests\TDD_Day1_homeWorkTests.csproj", "{3610D764-4005-4623-81AF-F54C51191CA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F1AC41C-1847-485B-AFF2-931D4D199C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F1AC41C-1847-485B-AFF2-931D4D199C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F1AC41C-1847-485B-AFF2-931D4D199C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F1AC41C-1847-485B-AFF2-931D4D199C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3610D764-4005-4623-81AF-F54C51191CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3610D764-4005-4623-81AF-F54C51191CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3610D764-4005-4623-81AF-F54C51191CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3610D764-4005-4623-81AF-F54C51191CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = d7ea0755-b22e-4290-ab03-f479b5a3db9c
+	EndGlobalSection
+EndGlobal
